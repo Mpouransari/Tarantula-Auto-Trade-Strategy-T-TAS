@@ -3,6 +3,11 @@ Auto Trade Strategy
 
 This Strategy allows users for trades directly from TW and get a detailed Order to MT5. You can change specific settings such as allowed symbols, risk factor, and more 
 
+Please Red The File 
+
+https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/blob/Tarantula/Tarantula%20-T-TAS%20FChart.pdf
+
+
 GET TAS Strategy
 
 1- Firt go to : https://www.tradingview.com/script/7bfl9BbC-Tarantula-Trade-FULL-Auto-Trade-strategy/
