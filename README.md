@@ -1,6 +1,5 @@
 # Tarantula-Auto-Trade-Strategy-T-TAS
-#Tarantula #Tarantula_trade #Tarantula_strategy #T-TAS #Auto_trade #Algorithm
-#Mpouransari
+
 Auto Trade Strategy
 
 This strategy allows users to execute trades directly from Tradingview and receive an accurate order in MT5. You can change certain settings like allowed icons, risk factor and more
@@ -36,3 +35,6 @@ GET TAS Strategy
 7- set Setting EA 
 
 8- Enjoying money....
+
+#Tarantula #Tarantula_trade #Tarantula_strategy #T-TAS #Auto_trade #Algorithm
+#Mpouransari #github #tradinView
