@@ -1,7 +1,13 @@
-# Tarantula-Auto-Trade-Strategy---T-TAS
+# Tarantula-Auto-Trade-Strategy-T-TAS
 Auto Trade Strategy
 
-This Strategy allows users for trades directly from TW and get a detailed Order to MT5. You can change specific settings such as allowed symbols, risk factor, and more 
+This strategy allows users to execute trades directly from Tradingview and receive an accurate order in MT5. You can change certain settings like allowed icons, risk factor and more
+
+-You can order from several time frames
+
+-Detail your profit at a certain level or track your SL and TP
+
+** You can also specify a certain amount for the minimum profit so that when the price reaches that level, your trade will be saved
 
 Please Red The File 
 
