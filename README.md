@@ -10,12 +10,12 @@ This strategy allows users to execute trades directly from Tradingview and recei
 
 ** You can also specify a certain amount for the minimum profit so that when the price reaches that level, your trade will be saved
 
-Please Red The File 
+# Please Red The File 
 
 https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/blob/Tarantula/Tarantula%20-T-TAS%20FChart.pdf
 
 
-GET TAS Strategy
+# GET TAS Strategy
 
 1- Firt go to : https://www.tradingview.com/script/7bfl9BbC-Tarantula-Trade-FULL-Auto-Trade-strategy/
 
@@ -36,5 +36,26 @@ GET TAS Strategy
 
 8- Enjoying money....
 
-#Tarantula #Tarantula_trade #Tarantula_strategy #T-TAS #Auto_trade #Algorithm
-#Mpouransari #github #tradinView
+# Hashtags 
+
+//-------------------------------------------------------------------------
+
+#Tarantula
+
+#Tarantula_trade 
+
+#Tarantula_strategy 
+
+#T-TAS 
+
+#Auto_trade 
+
+#Algorithm
+
+#Mpouransari 
+
+#github 
+
+#tradinView
+
+//-------------------------------------------------------------------------
