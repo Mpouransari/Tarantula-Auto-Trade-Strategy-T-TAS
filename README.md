@@ -7,6 +7,9 @@ GET TAS Strategy
 
 1- Firt go to : https://www.tradingview.com/script/7bfl9BbC-Tarantula-Trade-FULL-Auto-Trade-strategy/
 
+ "you can visit another Indicator from : " https://www.tradingview.com/script/3FOoBdFA-Tarantula-Trade-Tools-Strategy/
+
+ 
 2- send your requests...
 
 3- add your TAS strategy in your chart .
