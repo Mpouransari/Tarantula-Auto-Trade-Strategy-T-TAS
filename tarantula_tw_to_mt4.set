@@ -1,0 +1,11 @@
+webhook=
+defaults=m=884 e=0
+overrides=q=q*1 tp=tp+0
+position_mode=0
+slippage=10
+trades=10
+symbols=10
+symbolTrades=10
+pyramid=10
+mapping=GLD=XAUUSD
+refresh=1
