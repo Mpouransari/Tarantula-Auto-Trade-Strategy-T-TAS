@@ -45,7 +45,7 @@ https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/blob/Tarantul
 
 # GET T-TAS Strategy ⚒️
 
-1- Firt go to : 
+1- First go to : 
 | [🕷🕸 Tarantula -T-TAS 🕸🕷](    https://www.tradingview.com/script/7bfl9BbC-Tarantula-Trade-FULL-Auto-Trade-strategy/) |
 | -------------------------- |
 
