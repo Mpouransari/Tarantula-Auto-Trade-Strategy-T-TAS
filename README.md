@@ -27,7 +27,7 @@ This strategy allows users to execute trades directly from Tradingview and recei
 
 https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/blob/Tarantula/Tarantula%20-T-TAS%20FChart.pdf
 
-# indicators 
+# INDICATORS 
 
  you can visit another Indicator from : 
 
