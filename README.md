@@ -1,4 +1,4 @@
-# Tarantula-Auto-Trade-Strategy-T-TAS
+# 🕷🕸 Tarantula-Auto-Trade-Strategy-T-TAS 🕸🕷
 
 # Auto Trade Strategy
 
@@ -10,7 +10,7 @@ This strategy allows users to execute trades directly from Tradingview and recei
 
 ** You can also specify a certain amount for the minimum profit so that when the price reaches that level, your trade will be saved
 
-# T-TAS performance 
+# T-TAS PERFORMANCE 
 
 ![image](https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/assets/85387547/d63df7aa-6d45-4187-9582-015da0b86879)
 
@@ -23,27 +23,38 @@ This strategy allows users to execute trades directly from Tradingview and recei
 
 <img width="1339" alt="Screenshot 1402-09-13 at 2 06 54 AM" src="https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/assets/85387547/04eeaf3c-f503-4d83-a271-1aea4e32940a">
 
-# Please Red The File 
+# Please Red The File 💡
 
 https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/blob/Tarantula/Tarantula%20-T-TAS%20FChart.pdf
 
-
-# GET T-TAS Strategy
-
-1- Firt go to : https://www.tradingview.com/script/7bfl9BbC-Tarantula-Trade-FULL-Auto-Trade-strategy/
+# indicators 
 
  you can visit another Indicator from : 
- 
-    https://www.tradingview.com/script/3FOoBdFA-Tarantula-Trade-Tools-Strategy/
-                                       
-    https://www.tradingview.com/script/Ul2ND7EQ-Tarantula-Trade-Killzone-Session-Tarantula-T-TKS/
-                                       
-    https://www.tradingview.com/script/P9UXfUDE-Tarantula-SB-Macros-Time-Tarantula-T-SBMT/
 
  
-2- send your requests :  https://t.me/Tarantula_support_bot 
 
-3- after visibel strategy in the INVITE ONLY , add your TAS strategy in your chart .
+   | [🕷🕸 Tarantula -T-TTS 🕸🕷](    https://www.tradingview.com/script/3FOoBdFA-Tarantula-Trade-Tools-Strategy/) |
+   | -------------------------- |
+
+   | [🕷🕸 Tarantula -T-TKS 🕸🕷](    https://www.tradingview.com/script/Ul2ND7EQ-Tarantula-Trade-Killzone-Session-Tarantula-T-TKS/) |
+   | -------------------------- |
+
+   | [🕷🕸 Tarantula - T-SBMT 🕸🕷](    https://www.tradingview.com/script/P9UXfUDE-Tarantula-SB-Macros-Time-Tarantula-T-SBMT/) |
+   | -------------------------- |
+
+
+# GET T-TAS Strategy ⚒️
+
+1- Firt go to : 
+| [🕷🕸 Tarantula -T-TAS 🕸🕷](    https://www.tradingview.com/script/7bfl9BbC-Tarantula-Trade-FULL-Auto-Trade-strategy/) |
+| -------------------------- |
+
+ 
+2- send your requests :  
+| [Tarantula SELL DEPARTMENT ](    https://t.me/Tarantula_support_bot) |
+| -------------------------- |
+
+3- after visibel strategy in the INVITE ONLY , add your T-TAS strategy in your chart .
 
 4- Get Conffig Setting And Tutorial T-TAS. 
 
@@ -60,3 +71,6 @@ https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/blob/Tarantul
 8- Enjoying your money ....
 
 //-------------------------------------------------------------------------
+
+# License 📝
+&copy; 2024 Tarantula Trade All rights reserved.
