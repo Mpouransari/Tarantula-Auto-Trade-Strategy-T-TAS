@@ -4,11 +4,13 @@
 
 This strategy allows users to execute trades directly from Tradingview and receive an accurate order in MT5/MT4. You can change certain settings like allowed icons, risk factor and more
 
--You can order from several time frames
+-You can order from several time frames and Assets 
 
--Detail your profit at a certain level or track your SL and TP
+-This is a strategy that automatically issues a signal and transmits the output signal to Metatrader, and you can determine the limit of profit and loss according to your risk management and enjoy trading.
 
 ** You can also specify a certain amount for the minimum profit so that when the price reaches that level, your trade will be saved
+
+This strategy follows all pricing rules required for market analysis + a series of special calculations and signals are issued accordingly. Then the issued signal is transferred to MetaTrader where it is executed automatically , this strategy is a powerful tool with very high accuracy that helps you recognize the market trend with a win rate of more than 80% in forex charts and indicators. .
 
 # T-TAS PERFORMANCE 
 
@@ -22,6 +24,16 @@ This strategy allows users to execute trades directly from Tradingview and recei
 <img width="1355" alt="Screenshot 1402-09-13 at 2 04 43 AM" src="https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/assets/85387547/d1b0f6a3-8a0a-4c73-ab79-2c17dceafe06">
 
 <img width="1339" alt="Screenshot 1402-09-13 at 2 06 54 AM" src="https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/assets/85387547/04eeaf3c-f503-4d83-a271-1aea4e32940a">
+
+# T-TAS Setting ⚙️
+
+<img width="549" alt="Screenshot 1402-09-14 at 6 47 22 PM" src="https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/assets/85387547/34446864-c726-4edd-b304-3aaaf8390e8e">
+
+# Meta Trader Executed  🔥
+
+![Screenshot 1402-09-14 at 6 53 32 PM](https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/assets/85387547/928d3f8c-c9c4-44ca-80e6-d8250b1d2203)
+
+
 
 # Please Red The File 💡
 
