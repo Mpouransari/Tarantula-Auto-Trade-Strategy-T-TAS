@@ -62,26 +62,40 @@ https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/blob/Tarantul
 | -------------------------- |
 
  
-2- send your requests :  
-| [Tarantula SELL DEPARTMENT ](    https://t.me/Tarantula_support_bot) |
+2- send your requests and receive information , you can also ask your questions to the support department:
+| [Tarantula SUPPORT DEPARTMENT ](    https://t.me/Tarantula_support_bot) |
 | -------------------------- |
+⚡️You can join the subscription to the strategy (T-TAS) and then add it to your chart in TradingView , (Contact us for information plans)
 
-3- after visibel strategy in the INVITE ONLY , add your T-TAS strategy in your chart .
+3- After preparing the subscription in the few time, you can receive the strategy and add it to your chart in the Indicators/ INVITE ONLY section in the tradingview
 
-4- Get Conffig Setting And Tutorial T-TAS. 
+4- Get Conffig Setting And Tutorial T-TAS in TradingView . 
 
-5- Set Alert Notifications in Tradingview.
+5- Add EA file to Mt5/MT4
 
-6- Add EA file to Mt5/MT4
+🔆 For optimal use, we recommend using Metatrader 5 🔆
 
 *************   important : If you use the Windows operating system ( for the Windows version of MT5/MT4 )  *************
 
 *************   your Windows must be higher than version 8.1 and for Windows servers, higher than 2012 R2   *************
+
+🌐 Our suggestion is to use VPS with Windows Server operating system 🌐
               
-7- set Setting EA .
+7- set Setting EA in MT5/MT4.
 
-8- Enjoying your money ....
+8- Enjoying your money .... 💸
 
+# Important Points 👀
+
+//-------------------------------------------------------------------------
+
+💯 We must point out that the support in all stages of the installation will be fully provided by us and you are not alone in any of the levels .
+
+⚠️ Unfortunately, we are not able to provide a test account for free, you can contact the support department to receive a 24-hour account.
+
+🔥 There is no need to create a TradingView paid account to receive this indicator. It can also be used on free and newly established accounts and has no prerequisites for use ‏, but if you have a paid account, the speed of signal processing in MetaTrader will be higher.
+
+❌ As you know, the financial market will not always proceed based on technical price action, and sometimes the market may go out of technical mode with the publication of a negative or positive news, and then no analysis will be used. So, be careful in your trad and set a stop point and use your money management and risk management for trade to avoid large and irreparable losses, because you are responsible for all trades 
 //-------------------------------------------------------------------------
 
 # License 📝
