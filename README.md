@@ -97,7 +97,9 @@ https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/blob/Tarantul
 
 🔥 There is no need to create a TradingView paid account to receive this indicator. It can also be used on free and newly established accounts and has no prerequisites for use ‏, but if you have a paid account, the speed of signal processing in MetaTrader will be higher.
 
-❌ As you know, the financial market will not always proceed based on technical price action, and sometimes the market may go out of technical mode with the publication of a negative or positive news, and then no analysis will be used. So, be careful in your trad and set a stop point and use your money management and risk management for trade to avoid large and irreparable losses, because you are responsible for all trades 
+❌ As you know, the financial market will not always proceed based on technical price action, and sometimes the market may go out of technical mode with the publication of a negative or positive news, and then no analysis will be used. So, be careful in your trad and set a stop point and use your money management and risk management for trade to avoid large and irreparable losses, because you are responsible for all trades
+   The financial market is a market of uncertainty and there is no strategy without mistakes, we have tried to reduce the amount of mistakes, but we cannot reduce it to zero, so there is a possibility of being stop loss and not all trades turn into profit. so it is possible sometime loss in your trades 
+   But we assure you that if you follow the main points, your win-rate percentage will be above 70% to 80% in the long terms.
 
 //————————————————————————————————————
 
