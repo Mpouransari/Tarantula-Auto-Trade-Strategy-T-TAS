@@ -63,7 +63,7 @@ https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/blob/Tarantul
 
  
 2- send your requests and receive information , you can also ask your questions to the support department:
-| [Tarantula SUPPORT DEPARTMENT ](    https://t.me/Tarantula_support_bot) |
+| [Tarantula SUPPORT DEPARTMENT In Telegram ](    https://t.me/Tarantula_support_bot) |
 | -------------------------- |
 
 ⚡️You can join the subscription to the strategy (T-TAS) and then add it to your chart in TradingView , (Contact us for information plans)
@@ -72,19 +72,20 @@ https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/blob/Tarantul
 
 4- Get Conffig Setting And Tutorial T-TAS in TradingView . 
 
-5- Add EA file to Mt5/MT4
+5- Add EA file to MT5/MT4
 
 🔆 For optimal use, we recommend using Metatrader 5 🔆
 
-*************   important : If you use the Windows operating system ( for the Windows version of MT5/MT4 )  *************
+🚨🚨 important : 
 
-*************   your Windows must be higher than version 8.1 and for Windows servers, higher than 2012 R2   *************
+   If you use the Windows operating system ( for the Windows version of MT5/MT4 ) your Windows must be higher than version 8.1 and for Windows servers, higher than 2012 R2 .
 
-🌐 Our suggestion is to use VPS with Windows Server operating system 🌐
+   🌐 Our suggestion is to use VPS with Windows Server operating system 🌐
+
               
-7- set Setting EA in MT5/MT4.
+6- set Setting EA in MT5/MT4.
 
-8- Enjoying your money .... 💸
+7- Enjoying your money .... 💸
 
 # Important Points 👀
 
