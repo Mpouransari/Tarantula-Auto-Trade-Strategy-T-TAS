@@ -89,7 +89,7 @@ https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/blob/Tarantul
 
 # Important Points 👀
 
-//————————————————————————————————————
+————————————————————————————————————
 
 💯 We must point out that the support in all stages of the installation will be fully provided by us and you are not alone in any of the levels .
 
@@ -106,7 +106,7 @@ https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/blob/Tarantul
    
    But we assure you that if you follow the main points, your win-rate percentage will be above 70% to 80% in the long terms.
 
-//————————————————————————————————————
+————————————————————————————————————
 
 # License 📝
 &copy; 2024 Tarantula Trade All rights reserved.
