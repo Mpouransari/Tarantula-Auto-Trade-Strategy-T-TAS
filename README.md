@@ -65,6 +65,7 @@ https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/blob/Tarantul
 2- send your requests and receive information , you can also ask your questions to the support department:
 | [Tarantula SUPPORT DEPARTMENT ](    https://t.me/Tarantula_support_bot) |
 | -------------------------- |
+
 ⚡️You can join the subscription to the strategy (T-TAS) and then add it to your chart in TradingView , (Contact us for information plans)
 
 3- After preparing the subscription in the few time, you can receive the strategy and add it to your chart in the Indicators/ INVITE ONLY section in the tradingview
@@ -87,7 +88,7 @@ https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/blob/Tarantul
 
 # Important Points 👀
 
-//-------------------------------------------------------------------------
+//————————————————————————————————————
 
 💯 We must point out that the support in all stages of the installation will be fully provided by us and you are not alone in any of the levels .
 
@@ -96,7 +97,8 @@ https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/blob/Tarantul
 🔥 There is no need to create a TradingView paid account to receive this indicator. It can also be used on free and newly established accounts and has no prerequisites for use ‏, but if you have a paid account, the speed of signal processing in MetaTrader will be higher.
 
 ❌ As you know, the financial market will not always proceed based on technical price action, and sometimes the market may go out of technical mode with the publication of a negative or positive news, and then no analysis will be used. So, be careful in your trad and set a stop point and use your money management and risk management for trade to avoid large and irreparable losses, because you are responsible for all trades 
-//-------------------------------------------------------------------------
+
+//————————————————————————————————————
 
 # License 📝
 &copy; 2024 Tarantula Trade All rights reserved.
