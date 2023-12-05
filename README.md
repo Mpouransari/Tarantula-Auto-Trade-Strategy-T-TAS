@@ -10,7 +10,7 @@ This strategy allows users to execute trades directly from Tradingview and recei
 
 ** You can also specify a certain amount for the minimum profit so that when the price reaches that level, your trade will be saved
 
-This strategy follows all pricing rules required for market analysis + a series of special calculations and signals are issued accordingly. Then the issued signal is transferred to MetaTrader where it is executed automatically , this strategy is a powerful tool with very high accuracy that helps you recognize the market trend with a win rate of more than 80% in forex charts and indicators. .
+This strategy follows all Price Action rules required for market analysis + a series of special calculations and signals are issued accordingly. Then the issued signal is transferred to MetaTrader where it is executed automatically , this strategy is a powerful tool with very high accuracy that helps you recognize the market trend with a win rate of more than 80% in forex charts and indicators. .
 
 # T-TAS PERFORMANCE 
 
