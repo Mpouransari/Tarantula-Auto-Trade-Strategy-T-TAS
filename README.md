@@ -37,7 +37,7 @@ This strategy follows all Price Action rules required for market analysis + a se
 
 # Please Red The File 💡
 
-https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/blob/Tarantula/Tarantula%20-T-TAS%20FChart.pdf
+![image](https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/assets/85387547/6332be75-5267-41b2-86b7-3151cd3a6618)
 
 # INDICATORS 📈
 
