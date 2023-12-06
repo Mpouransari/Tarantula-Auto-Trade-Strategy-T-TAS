@@ -62,7 +62,7 @@ https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/blob/Tarantul
 | -------------------------- |
 
  
-2- send your requests and receive information , you can also ask your questions to the support department:
+2- send your requests and receive information , you can also ask your questions from the support department:
 | [Tarantula SUPPORT DEPARTMENT In Telegram ](    https://t.me/Tarantula_support_bot) |
 | -------------------------- |
 
@@ -70,7 +70,7 @@ https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/blob/Tarantul
 
 3- After preparing the subscription in the few time, you can receive the strategy and add it to your chart in the Indicators/ INVITE ONLY section in the tradingview
 
-4- Get Conffig Setting And Tutorial T-TAS in TradingView . 
+4- Get Config Setting And Tutorial T-TAS in TradingView . 
 
 5- Add EA file to MT5/MT4
 
@@ -83,9 +83,9 @@ https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/blob/Tarantul
    🌐 Our suggestion is to use VPS with Windows Server operating system 🌐
 
               
-6- set Setting EA in MT5/MT4.
+6- Set Config Setting EA in the MT5/MT4.
 
-7- Enjoying your money .... 💸
+7- NOW , Enjoy Your Moneys .... 💸
 
 # Important Points 👀
 
@@ -95,7 +95,7 @@ https://github.com/Mpouransari/Tarantula-Auto-Trade-Strategy-T-TAS/blob/Tarantul
 
 ⚠️ Unfortunately, we are not able to provide a test account for free, you can contact the support department to receive a 24-hour account.
 
-🔥 There is no need to create a TradingView paid account to receive this indicator. It can also be used on free and newly established accounts and has no prerequisites for use ‏, but if you have a paid account, the speed of signal processing in MetaTrader will be higher.
+🔥 There is no need to create a TradingView paid account to receive this strategy / indicator. It can also be used on free and newly established accounts and has no prerequisites for use ‏, but if you have a paid account, the speed of signal processing in TradingView and transfer it to MetaTrader will be higher.
 
 ❌ As you know,the financial market will not always proceed based on technical price action, and sometimes the market may go out of technical mode with the publication of a negative or positive news,and then no analysis will be used. 
    So, be careful in your trad and set a SL and use your money management and risk management for trade to avoid large and irreparable losses
