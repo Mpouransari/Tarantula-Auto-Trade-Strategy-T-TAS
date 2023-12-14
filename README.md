@@ -110,4 +110,6 @@ This strategy follows all Price Action rules required for market analysis + a se
 
 # License 📝
 
+MIT License
+
 &copy; 2024 Tarantula Trade All rights reserved.
