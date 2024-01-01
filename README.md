@@ -63,7 +63,7 @@ This strategy follows all Price Action rules required for market analysis + a se
 
  
 2- send your requests and receive information , you can also ask your questions from the support department:
-| [Tarantula SUPPORT DEPARTMENT In Telegram ](    https://t.me/Tarantula_support_bot) |
+| [Tarantula SUPPORT DEPARTMENT In Telegram ](https://telegram.me/Tarantula_trade_chBot?start=5580469558) |
 | -------------------------- |
 
 ⚡️You can join the subscription to the strategy (T-TAS) and then add it to your chart in TradingView , (Contact us for information plans)
